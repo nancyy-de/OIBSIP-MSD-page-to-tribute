@@ -56,7 +56,7 @@
     <div class="gallery">
       <img src="https://github.com/nancyy-de/OIBSIP-MSD-page-to-tribute/blob/main/dhoni-six-e1466508326784.jpg?raw=true">
       <img src="https://raw.githubusercontent.com/nancyy-de/OIBSIP-MSD-page-to-tribute/refs/heads/main/image.webp">
-      <img src="https://i.imgur.com/dXgp1xu.jpg" alt="MSD 3">
+      <img src="https://raw.githubusercontent.com/nancyy-de/OIBSIP-MSD-page-to-tribute/refs/heads/main/ms-dhoni-ps0346-small-original-imadwmkjhsxy9qjg.webp">
     </div>
   </div>
 
