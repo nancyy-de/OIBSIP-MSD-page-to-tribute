@@ -54,7 +54,7 @@
 
     <h2>Image Gallery</h2>
     <div class="gallery">
-      <img src="https://i.imgur.com/RcWz3YV.jpg" alt="MSD 1">
+      <img src="https://github.com/nancyy-de/OIBSIP-MSD-page-to-tribute/blob/main/dhoni-six-e1466508326784.jpg?raw=true"=>
       <img src="https://i.imgur.com/xgQULDR.jpg" alt="MSD 2">
       <img src="https://i.imgur.com/dXgp1xu.jpg" alt="MSD 3">
     </div>
